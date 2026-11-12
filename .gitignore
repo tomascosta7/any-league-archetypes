@@ -1,0 +1,10 @@
+# Scraped data from the FEB website: not redistributed (regenerate with 01_dados.ipynb)
+data/
+
+# Jupyter and Python clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
