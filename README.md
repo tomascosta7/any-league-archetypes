@@ -4,7 +4,7 @@
 
 **Tomás Costa** · MSc in Sports Analytics · Escuela Universitaria Real Madrid – Universidad Europea · November 2026
 
-📄 **[Read the paper (PDF)](paper/Any%20League%20-%20Probabilistic%20Player%20Archetypes%20in%20Women%27s%20Basketball.pdf)** · 🗺️ **[Open the interactive league map](https://htmlpreview.github.io/?https://github.com/tomascosta7/any-league-archetypes/blob/main/figures/plotly/league_map_seasons.html)**
+📄 **[Read the paper (PDF)](paper/Any%20League%20-%20Probabilistic%20Player%20Archetypes%20in%20Women%27s%20Basketball.pdf)** · 🗺️ **[Open the interactive league map](https://tomascosta7.github.io/any-league-archetypes/figures/plotly/league_map_seasons.html)**
 
 ---
 
